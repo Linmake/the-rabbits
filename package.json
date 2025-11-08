@@ -1,0 +1,19 @@
+{
+  "name": "the-rabbits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rabbits.audio.position.worklet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linmake/the-rabbits.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linmake/the-rabbits/issues"
+  },
+  "homepage": "https://github.com/Linmake/the-rabbits#readme"
+}
